@@ -8,6 +8,5 @@ public class TextLengthCalculator {
 
     public static int calculateTextLength(String text) {
         return text.length();
-
     }
 }
